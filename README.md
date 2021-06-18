@@ -150,6 +150,7 @@
 ## Installation [Linux](https://wikipedia.org/wiki/Linux) [![alt tag](http://icons.iconarchive.com/icons/dakirby309/simply-styled/32/OS-Linux-icon.png)](https://fr.wikipedia.org/wiki/Linux)
 
 ```bash
+git clone https://github.com/1ucif3r/DARKARMY.git
 cd darkarmy
 chmod +x setup.sh    or   darkarmy.sh
 ./setup.sh       or    ./darkarmy.sh
@@ -165,6 +166,8 @@ Download [Termux](https://play.google.com/store/apps/details?id=com.termux)
 NOTE : if you run first time then first run setup.sh .
 
 ```bash
+git clone https://github.com/1ucif3r/DARKARMY.git
+cd DARKARMY
 bash darkarmy.sh
 OR
 chmod +x darkarmy.sh
